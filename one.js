@@ -30,3 +30,11 @@ for(let i = 0; i < numbers.length; i++){
         console.log(numbers[i]);
     }
 }
+
+//fourth task
+
+let User = {
+    name: 'giorgi',
+    age:  20,
+    studentstatus: 'active'
+}
